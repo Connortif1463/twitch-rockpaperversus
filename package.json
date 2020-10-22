@@ -1,0 +1,16 @@
+{
+  "name": "twitchprojectreloaded",
+  "version": "0.0.0",
+  "description": "retry at twitch bot",
+  "main": "src",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Connortif1463",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "tmi.js": "^1.5.0"
+  }
+}
