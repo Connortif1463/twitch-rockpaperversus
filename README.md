@@ -1,4 +1,4 @@
-# rockpaperverus
+# rockpaperverus (WIP)
 
 This is a tmi.js bot that will ideally allow users in twitch chat to challenge each other to a game of rock-paper-scissors.
 It requires the user to make a constants file with a twitch bot's api key and channels for it to view.
